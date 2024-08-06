@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  EquilateralTriangle.cpp
+  IsoscelesTriangle.cpp
+  Parallelogram.cpp
+  Quadrangle.cpp
+  Rectangle.cpp
+  Rhombus.cpp
+  RightTriangle.cpp
+  Square.cpp
+  Triangle.cpp
+  Generating Code...
+     Creating library D:\Study\ShapesSolution\x64\Debug\ShapesLibrary.lib and object D:\Study\ShapesSolution\x64\Debug\ShapesLibrary.exp
+  ShapesLibrary.vcxproj -> D:\Study\ShapesSolution\x64\Debug\ShapesLibrary.dll
